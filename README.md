@@ -1,3 +1,4 @@
+by following the tutorial [Hello World - GitHub Guides](https://guides.github.com/activities/hello-world/)
 # hello-world
 I'm new here... from a virtualbox image of minimal lubuntu installation...
 
